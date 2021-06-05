@@ -1,1 +1,2 @@
-Research all my enemies.
+*Research all my enemies.
+*Capturar a redskull
